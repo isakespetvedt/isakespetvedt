@@ -1,16 +1,36 @@
-## Hi there 👋
+# Isak Espetvedt
 
-<!--
-**isakespetvedt/isakespetvedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity BSc student at Kristiania University College in Bergen, Norway.
 
-Here are some ideas to get you started:
+Interested in **Security Operations, Cloud Security, Penetration Testing, and Governance, Risk & Compliance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity Focus
+
+- Security monitoring and incident investigation
+- SIEM and detection engineering
+- Network and web security
+- Cloud security
+- Threat analysis and MITRE ATT&CK
+- Governance, risk and compliance
+
+## 🛠 Technical Experience
+
+**Security:** Splunk, Nmap, Burp Suite, Wireshark, YARA, MITRE ATT&CK  
+**Systems:** Kali Linux, Ubuntu, Windows  
+**Programming:** Python  
+**Virtualization:** VMware, VirtualBox
+
+## 🚧 Currently Building
+
+### SOC Investigation with Splunk
+Building a documented SOC investigation project using Splunk, including:
+
+- Log analysis and triage
+- Suspicious PowerShell investigation
+- Command-and-control analysis
+- Lateral movement investigation
+- SPL detection queries
+- MITRE ATT&CK mapping
+- Incident reporting
+
+More cybersecurity projects coming soon.
